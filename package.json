@@ -1,0 +1,23 @@
+{
+  "name": "Backgrounder",
+  "version": "1.0.0",
+  "description": "A minimal auto background changer with unSplash",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . Backgrounder win32  --icon ./icon/icon.ico --out ./build"
+  },
+  "repository": "https://github.com/Erwin0Maleki/Backgrounder",
+  "author": "Erwin0maleki",
+  "license": "NIT",
+  "devDependencies": {
+    "electron": "^2.0.0",
+    "electron-packager": "^12.1.1"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "electron-winstaller": "^2.6.4",
+    "image-downloader": "^3.4.1",
+    "wallpaper": "^3.0.0"
+  }
+}
