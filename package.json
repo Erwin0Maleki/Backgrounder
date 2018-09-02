@@ -9,7 +9,7 @@
   },
   "repository": "https://github.com/Erwin0Maleki/Backgrounder",
   "author": "Erwin0maleki",
-  "license": "NIT",
+  "license": "MIT",
   "devDependencies": {
     "electron": "^2.0.0",
     "electron-packager": "^12.1.1"
