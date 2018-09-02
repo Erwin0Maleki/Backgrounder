@@ -16,5 +16,5 @@ npm start
 ```
 ### Todos
 * add timer
-* add source for images in menu
+*  ~~add source for images in menu ~~
 * auto startup
