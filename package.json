@@ -1,6 +1,6 @@
 {
   "name": "Backgrounder",
-  "version": "1.0.0",
+  "version": "0.2.2",
   "description": "A minimal auto background changer with unSplash",
   "main": "main.js",
   "scripts": {
