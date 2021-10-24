@@ -17,3 +17,5 @@ npm start
 ### Todos
 * add timer
 * auto startup
+
+
